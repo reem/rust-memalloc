@@ -2,6 +2,8 @@
 
 > Raw allocation APIs in stable rust.
 
+## [Documentation](https://crates.fyi/crates/memalloc/0.1.0)
+
 ## Usage
 
 See the tests at the bottom of `src/lib.rs` for some examples.
@@ -11,7 +13,7 @@ with the rest of your dependencies:
 
 ```toml
 [dependencies]
-memalloc = "*"
+memalloc = "0.1"
 ```
 
 ## Author
